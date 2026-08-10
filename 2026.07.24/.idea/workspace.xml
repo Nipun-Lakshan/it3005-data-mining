@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="440762a3-df08-4b1e-89ec-f9fb991d9e0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../2026.07.31/Script01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2026.07.31/Script02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2026.07.17/.idea/2026.07.17.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2026.07.17/.idea/2026.07.17.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2026.07.17/BreastCancer.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2026.07.17/Script01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2026.07.17/wine-clustering.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/2026.07.24.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script01.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.000000000003841" />
+      <entry key="S30" value="1.0009966294618806" />
+      <entry key="S60" value="1.1560434902183587" />
+      <entry key="M2" value="3.326693127579673" />
+      <entry key="M5" value="14.959926804460693" />
+      <entry key="M10" value="32.166192950026314" />
+      <entry key="M15" value="47.692797812705194" />
+      <entry key="M30" value="83.6272124220071" />
+      <entry key="H1" value="121.41112062192292" />
+      <entry key="H2" value="150.39854168207796" />
+      <entry key="H4" value="168.62344071992325" />
+      <entry key="D1" value="186.1930250297632" />
+      <entry key="W1" value="189.44980193121455" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="6.479734117715974E-92" />
+      <entry key="S5" value="4.1589926083533505E-37" />
+      <entry key="S10" value="8.865050913501785E-19" />
+      <entry key="S30" value="1.7655414499670497E-6" />
+      <entry key="S60" value="0.002246628295604339" />
+      <entry key="M2" value="0.08156981736753038" />
+      <entry key="M5" value="0.7578338658407137" />
+      <entry key="M10" value="2.1573484875114577" />
+      <entry key="M15" value="3.6246926828458927" />
+      <entry key="M30" value="7.101367276597109" />
+      <entry key="H1" value="10.686786674795695" />
+      <entry key="H2" value="13.381835458749826" />
+      <entry key="H4" value="15.055212686714885" />
+      <entry key="D1" value="16.65497129372093" />
+      <entry key="W1" value="16.950169137413916" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9138314502294005" />
+      <entry key="MS500" value="0.9821395952633915" />
+      <entry key="S2" value="0.995504677670617" />
+      <entry key="S5" value="0.9981994402866303" />
+      <entry key="S10" value="0.9990993145298817" />
+      <entry key="S30" value="1.0006865797777391" />
+      <entry key="S60" value="1.1570547339807489" />
+      <entry key="M2" value="3.398596329690514" />
+      <entry key="M5" value="15.692476586525265" />
+      <entry key="M10" value="34.2956238401857" />
+      <entry key="M15" value="51.29058020627953" />
+      <entry key="M30" value="90.70667591240219" />
+      <entry key="H1" value="132.08303296894096" />
+      <entry key="H2" value="163.77154651972057" />
+      <entry key="H4" value="183.67381812790467" />
+      <entry key="D1" value="202.84712477480247" />
+      <entry key="W1" value="206.3998448477677" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3Gxtr2XPLFHDbDqEVw8n8YXIPTu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Script01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Script02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Script02" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="2026.07.24" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c6d794e1806d-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.309" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="440762a3-df08-4b1e-89ec-f9fb991d9e0d" name="Changes" comment="" />
+      <created>1784925242389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784925242389</updated>
+      <workItem from="1784925243411" duration="630000" />
+      <workItem from="1784958510904" duration="267000" />
+      <workItem from="1784966273286" duration="2000" />
+      <workItem from="1785068165555" duration="864000" />
+      <workItem from="1785227516090" duration="14000" />
+      <workItem from="1785401653766" duration="2416000" />
+      <workItem from="1785404089831" duration="716000" />
+      <workItem from="1785423864312" duration="604000" />
+      <workItem from="1785424494151" duration="3832000" />
+      <workItem from="1785471558544" duration="1320000" />
+      <workItem from="1785476469734" duration="1943000" />
+      <workItem from="1785484025928" duration="54000" />
+      <workItem from="1785484837194" duration="2097000" />
+      <workItem from="1785992558026" duration="27000" />
+      <workItem from="1785992614837" duration="53000" />
+      <workItem from="1786105275712" duration="864000" />
+      <workItem from="1786179327742" duration="364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2026_07_24$Script01.coverage" NAME="Script01 Coverage Results" MODIFIED="1785992638564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2026_07_24$main.coverage" NAME="main Coverage Results" MODIFIED="1784925743041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2026_07_24$Script02.coverage" NAME="Script02 Coverage Results" MODIFIED="1785992620250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
