@@ -1,5 +1,5 @@
-# Note 02: Linear Regression (RMSE Method)
-# ========================================
+# Note 02: Finding the Best Fitted Line (RMSE Method)
+# ===================================================
 
 # Import Libraries
 import pandas as pd
