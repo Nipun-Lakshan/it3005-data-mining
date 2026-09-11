@@ -10,7 +10,6 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report
 from statsmodels.miscmodels.ordinal_model import OrderedModel
 
-
 # 01. Plot Sigmoid Function
 # =========================
 
