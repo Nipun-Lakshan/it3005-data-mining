@@ -78,6 +78,10 @@ accuracy = accuracy_score(y_test, predicted)
 print("\nThe accuracy score is     =", round((accuracy * 100), 2), "\b%")
 print("The accuracy score is     =", round((model.score(x_test, y_test) * 100), 2), "\b%")
 
+# Manual Calculation
+acc = (np.sum(predicted == y_test) / len(y_test)) * 100
+print("\nThe accuracy score is [Manual]    = ", acc)
+
 # Classification Report
 print("\n======================")
 print("Classification Report")

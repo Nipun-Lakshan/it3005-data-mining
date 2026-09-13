@@ -48,6 +48,8 @@ for k in k_values:
     knn.fit(x_train, y_train)
     y_pred = knn.predict(x_test)
     accuracies.append(accuracy_score(y_test, y_pred))
+    # acc = (np.sum(y_pred == y_test) / len(y_test)) * 100
+    # accuracies.append(acc) # Manual Method
 
 # Plot and Pick the k with the highest accuracy
 plt.figure()

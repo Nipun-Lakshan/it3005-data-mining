@@ -1,13 +1,11 @@
-# Note 09: Decision Tree Algorithm
+# Note 10: Random Forest Algorithm
 # ================================
 
 # Import Libraries
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
-from sklearn.tree import  plot_tree
-import matplotlib.pyplot as plt
 
 # Load dataset
 iris = pd.read_csv("Iris.csv")
@@ -19,8 +17,8 @@ y = iris["Species"]
 # Split dataset
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# Create Decision Tree model
-model = DecisionTreeClassifier(random_state=42, criterion="gini", max_depth=None, max_leaf_nodes=None)
+# Create Random Forest model
+model = RandomForestClassifier(n_estimators=100, random_state=42)
 
 # Train model
 model.fit(X_train, y_train)
@@ -28,16 +26,12 @@ model.fit(X_train, y_train)
 # Predict
 y_pred = model.predict(X_test)
 
-# Header
+# Evaluation
 print("\n===========================================")
-print("Evalution Report - Decision Tree Classifier")
+print("Evalution Report - Random Forest Classifier")
 print("===========================================\n")
-
-# Print Results
-print("Accuracy as a Percentage :", round((accuracy_score(y_test, y_pred)*100), 2), "\b%")
-
-# Header
-print("\n================")
+print(f"Accuracy as a Percentage : {accuracy_score(y_test, y_pred) * 100:.2f}%\n")
+print("================")
 print("Confusion Matrix")
 print("================\n")
 print("Confusion Matrix:\n", confusion_matrix(y_test, y_pred), "\n")
@@ -47,12 +41,6 @@ new_flower = pd.DataFrame([[5.1, 3.5, 1.4, 0.2]],columns=["SepalLengthCm", "Sepa
 prediction = model.predict(new_flower)
 print("Expected Flower  :  Iris-setosa")
 print("Predicted Flower : ", prediction[0])
-
-# Plot Decision Tree
-plt.figure()
-plot_tree(model, feature_names=X.columns.tolist(), class_names=model.classes_, filled=True,rounded=True,)
-plt.title("Trained Decision Tree Structure")
-plt.show()
 
 # Print Header
 print("\n==================")

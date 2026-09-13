@@ -281,3 +281,37 @@ ax.set_ylabel("Y")
 ax.set_zlabel("Z")
 plt.title("3D Surface Plot")
 plt.show()
+
+# 10. Error Bar Plot
+# ==================
+
+# Data
+subjects = ['A', 'B', 'C', 'D', 'E']
+
+# Mean values
+mean = np.array([70, 75, 65, 80, 72])
+
+# Error values
+error = np.array([5, 4, 6, 3, 5])
+
+# Create error bar plot
+plt.errorbar(
+    subjects,
+    mean,
+    yerr=error, # Vertical Error
+    # xerr=error, # Horizontal Error
+    fmt='o',
+    capsize=5,
+    markersize=7
+)
+
+# Labels and title
+plt.xlabel("Subjects")
+plt.ylabel("Mean Marks")
+plt.title("Mean Marks with Error Bars")
+
+# Grid
+plt.grid(True)
+
+# Display plot
+plt.show()
